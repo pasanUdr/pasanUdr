@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pasan Udara Dias</h1>
 <h3 align="center">A passionate IT Undergraduate | Exploring the Boundless world of Technology</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pasanudr&label=Profile%20views&color=0e75b6&style=flat" alt="pasanudr" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=pasanudr&label=Profile%20views&color=0e75b6&style=flat" alt="pasanudr" /> </p>
 
 - 🌱 I’m currently learning **Software Development & Deployment**
 
@@ -11,8 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/pasan dias" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pasan dias" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/pasan udara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="pasan udara" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pasan-dias-48322b2a2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pasan dias" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/23909906/pasan-udara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="pasan udara" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
