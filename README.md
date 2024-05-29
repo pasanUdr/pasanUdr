@@ -64,6 +64,7 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/pasanUdr/skill-icons/blob/main/icons/Git.svg" alt="git" width="50" height="50"/> </a>
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://github.com/pasanUdr/skill-icons/blob/main/icons/AndroidStudio-Light.svg" alt="android" width="50" height="50"/> </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://github.com/pasanUdr/skill-icons/blob/main/icons/Postman.svg" alt="postman" width="50" height="50"/> </a>
+  <a href="https://hub.docker.com/u/pasanudara" target="_blank" rel="noreferrer"> <img src="https://github.com/pasanUdr/skill-icons/blob/main/icons/Docker.svg" alt="postman" width="50" height="50"/> </a>
 </p>
 
 ## <div align="center"> <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"> <b> Let's Connect:</b> </div>
@@ -71,3 +72,6 @@
   <a href="https://linkedin.com/in/pasan-dias-48322b2a2/" target="blank"><img align="center" src="https://github.com/pasanUdr/skill-icons/blob/main/icons/LinkedIn.svg" alt="pasan dias" width="50" height="50" /></a>
   <a href="https://stackoverflow.com/users/23909906/pasan-udara" target="blank"><img align="center" src="https://github.com/pasanUdr/skill-icons/blob/main/icons/StackOverflow-Dark.svg" alt="pasan udara" width="50" height="50" /></a>
 </p>
+
+##
+![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
