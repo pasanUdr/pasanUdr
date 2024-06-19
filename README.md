@@ -58,10 +58,11 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://github.com/pasanUdr/skill-icons/blob/main/icons/Python-Dark.svg" alt="python" width="50" height="50"/> </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://github.com/pasanUdr/skill-icons/blob/main/icons/ExpressJS-Dark.svg" alt="express" width="50" height="50"/> </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://github.com/pasanUdr/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="nodejs" width="50" height="50"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/pasanUdr/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="mysql" width="50" height="50"/> </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/pasanUdr/skill-icons/blob/main/icons/SQLite.svg" alt="sqlite" width="50" height="50"/> </a>
   <a href="https://www.r-project.org/other-docs.html" target="_blank" rel="noreferrer"> <img src="https://github.com/pasanUdr/skill-icons/blob/main/icons/R-Dark.svg" alt="R" width="50" height="50"/> </a>
   <br>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/pasanUdr/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="mysql" width="50" height="50"/> </a>
+  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/pasanUdr/skill-icons/blob/main/icons/SQLite.svg" alt="sqlite" width="50" height="50"/> </a>
+  <a href="https://learn.mongodb.com/dashboard" target="_blank" rel="noreferrer"> <img src="https://github.com/pasanUdr/skill-icons/blob/main/icons/MongoDB.svg" alt="MongoDB" width="50" height="50"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/pasanUdr/skill-icons/blob/main/icons/Git.svg" alt="git" width="50" height="50"/> </a>
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://github.com/pasanUdr/skill-icons/blob/main/icons/AndroidStudio-Light.svg" alt="android" width="50" height="50"/> </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://github.com/pasanUdr/skill-icons/blob/main/icons/Postman.svg" alt="postman" width="50" height="50"/> </a>
