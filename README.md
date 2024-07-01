@@ -9,11 +9,11 @@
 <tr border="none">
 <td width="65%" align="left">
   
-- 🌱 I’m currently learning **Software Development & Deployment**
+- 🌱 I’m currently learning **Software Development & Operations**
 
 - 🔭 I’m currently available for **an Internship**
 
-- 🤝 I’m looking to collaborate on **Projects**
+- 🤝 I’m looking to collaborate on **Real-World Projects**
 
 - 👯 I’m committed to **continuous self-improvement, and driven by passion**
 
