@@ -54,12 +54,16 @@
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://github.com/pasanUdr/skill-icons/blob/main/icons/Bootstrap.svg" alt="bootstrap" width="50" height="50"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://github.com/pasanUdr/skill-icons/blob/main/icons/JavaScript.svg" alt="javascript" width="50" height="50"/> </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/pasanUdr/skill-icons/blob/main/icons/React-Dark.svg" alt="react" width="50" height="50"/> </a>
+  <a href="https://vite.dev/" target="_blank" rel="noreferrer"> <img src="https://github.com/pasanUdr/skill-icons/blob/main/icons/Vite-Dark.svg" alt="vite" width="50" height="50"/> </a>
+  <a href="https://tailwindcss.com/docs/" target="_blank" rel="noreferrer"> <img src="https://github.com/pasanUdr/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" alt="tailwindCSS" width="50" height="50"/> </a>
+  <a href="https://docs.flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://github.com/pasanUdr/skill-icons/blob/main/icons/Flutter-Dark.svg" alt="flutter" width="50" height="50"/> </a>
+  <a
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://github.com/pasanUdr/skill-icons/blob/main/icons/Java-Light.svg" alt="java" width="50" height="50"/> </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://github.com/pasanUdr/skill-icons/blob/main/icons/Python-Dark.svg" alt="python" width="50" height="50"/> </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://github.com/pasanUdr/skill-icons/blob/main/icons/ExpressJS-Dark.svg" alt="express" width="50" height="50"/> </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://github.com/pasanUdr/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="nodejs" width="50" height="50"/> </a>
-  <a href="https://www.r-project.org/other-docs.html" target="_blank" rel="noreferrer"> <img src="https://github.com/pasanUdr/skill-icons/blob/main/icons/R-Dark.svg" alt="R" width="50" height="50"/> </a>
   <br>
+  <a href="https://www.r-project.org/other-docs.html" target="_blank" rel="noreferrer"> <img src="https://github.com/pasanUdr/skill-icons/blob/main/icons/R-Dark.svg" alt="R" width="50" height="50"/> </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/pasanUdr/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="mysql" width="50" height="50"/> </a>
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/pasanUdr/skill-icons/blob/main/icons/SQLite.svg" alt="sqlite" width="50" height="50"/> </a>
   <a href="https://learn.mongodb.com/dashboard" target="_blank" rel="noreferrer"> <img src="https://github.com/pasanUdr/skill-icons/blob/main/icons/MongoDB.svg" alt="MongoDB" width="50" height="50"/> </a>
