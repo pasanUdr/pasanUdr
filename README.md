@@ -11,7 +11,7 @@
   
 - 🌱 I’m currently learning **Software Development & Operations**
 
-- 🔭 I’m currently available for **an Internship**
+- 🔭 I’m currently available for **a recruitment**
 
 - 🤝 I’m looking to collaborate on **Real-World Projects**
 
